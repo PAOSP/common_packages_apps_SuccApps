@@ -15,9 +15,13 @@
 
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/AdAway)
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/KernelAdiutor)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/MiXplorer)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/mnml)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/NovaLauncher)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/Phonograph)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/substratum)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/SuperSU)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/Blu)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/PaospWallpapers)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/Lawnchair)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/Pornograph)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/LibreSubstratum)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/FirePorn)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/PornHub)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/FDroid)
+
+
